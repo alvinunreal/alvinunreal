@@ -18,37 +18,29 @@ I like tools that feel close to the machine: terminal-first, local-first, observ
 
 ## Agent & Developer Tools
 
-- 🧠 **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** — Lean, fine-tuned OpenCode multi-agent suite. Mix models, delegate work, and run practical agent workflows. `⭐ 6.5k+`
-- 🖥️ **[TmuxAI](https://github.com/alvinunreal/tmuxai)** — Non-intrusive terminal assistant that observes your tmux pane and helps like a teammate sitting beside you. `⭐ 1.8k+`
-- 🧩 **[LazySkills](https://github.com/alvinunreal/lazyskills)** — Terminal UI for managing agent skills across coding agents. `⭐ 100+`
-- 📄 **[Markdown for Agents](https://github.com/alvinunreal/markdownforagents)** — Fast URL-to-markdown and PageMap extraction API for LLM and agent workflows.
+- 🧠 **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** — Lean, fine-tuned OpenCode multi-agent suite. Mix models, delegate work, and run practical agent workflows. `⭐ 8.9k+`
+- 🖥️ **[TmuxAI](https://github.com/alvinunreal/tmuxai)** — Non-intrusive terminal assistant that observes your tmux pane and helps like a teammate sitting beside you. `⭐ 1.9k+`
+- 🧩 **[LazySkills](https://github.com/alvinunreal/lazyskills)** — Terminal UI for managing agent skills across coding agents. [Website](https://lazyskills.sh/) · [Trending skills](https://lazyskills.sh/trending) `⭐ 246+`
+- 🥩 **[Meat Proxy Skills](https://github.com/meatproxyme/skills)** — Installable skills for AI agents. [Website](https://meatproxy.me/) `⭐ 21+`
 
 ## Desktop AI & Companions
 
-- 🐾 **[OpenPets](https://github.com/alvinunreal/openpets)** — Desktop companion platform with animated pets, plugin SDK, official plugins, and optional local coding-agent integrations. `⭐ 850+`
-- 🐈 **[claude-pets](https://github.com/alvinunreal/claude-pets)** — Claude Code integration for OpenPets with automatic desktop pet status updates. `⭐ 100+`
-- 🐕 **[opencode-pets](https://github.com/alvinunreal/opencode-pets)** — OpenCode plugin installer for OpenPets desktop pet status updates.
+- 🐾 **[OpenPets](https://github.com/alvinunreal/openpets)** — Desktop companion platform with animated pets, plugin SDK, official plugins, and optional local coding-agent integrations. `⭐ 1.2k+`
 
 ## Curated AI Resources
 
-- 🌐 **[Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai)** — Curated list of truly open-source AI projects, models, tools, and infrastructure. `⭐ 4k+`
-- 🦾 **[Awesome OpenClaw](https://github.com/alvinreal/awesome-openclaw)** — Curated OpenClaw resources, tools, skills, plugins, dashboards, and guides. `⭐ 700+`
-- 💡 **[Awesome OpenClaw Tips](https://github.com/alvinreal/awesome-openclaw-tips)** — Practical tips for memory, reliability, cost, automation, and multi-agent workflows. `⭐ 200+`
+- 🌐 **[Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai)** — Curated list of truly open-source AI projects, models, tools, and infrastructure. [Website](https://awesomeosai.com/) `⭐ 4.7k+`
+- 🦾 **[Awesome OpenClaw](https://github.com/alvinreal/awesome-openclaw)** — Curated OpenClaw resources, tools, skills, plugins, dashboards, and guides. `⭐ 735+`
+- 💡 **[Awesome OpenClaw Tips](https://github.com/alvinreal/awesome-openclaw-tips)** — Practical tips for memory, reliability, cost, automation, and multi-agent workflows. `⭐ 229+`
 
 ## Products & Experiments
 
-- 🧘 **[Anxiety Aid Tools](https://anxietyaidtools.com/)** — Anxiety programs, exercises, self-tests, worksheets, and guided practice tools.
 - 📊 **[Free Sub Stats](https://freesubstats.com/)** — Free Reddit subreddit statistics and growth analytics.
-- 🗂️ **[Awesome TUI](https://awesometui.com/)** — Curated list of excellent text user interface apps.
+- 🗂️ **[Awesome TUI](https://github.com/alvinunreal/awesometui)** — 1,300+ curated terminal user interfaces, organized by category and synced weekly from awesometui.com. `⭐ 15+`
+- 📋 **[Awesome Submitlist](https://github.com/alvinunreal/awesome-submitlist)** — 300+ directories, launch sites, newsletters, communities, subreddits, and marketplaces to submit your startup. [Website](https://submitlist.io/) `⭐ 154+`
+- 📌 **[Sticky Archive](https://stickyarchive.com/)** — Personal sticky-note archive.
+- 🌐 **[BrowserPedia](https://github.com/BrowserPedia/open-browser-index)** — Source-linked, factual browser data for downstream applications. [Website](https://browserpedia.com/) `⭐ 4+`
 - 🏢 **[Boring Dystopia](https://boringdystopia.ai/)** — Home for the products, experiments, and open-source projects I ship.
-
-## What I care about
-
-- AI agents that are actually useful in day-to-day development
-- Terminal and desktop interfaces that stay out of the way
-- Multi-agent workflows with review, delegation, and observability
-- Local-first tooling, small sharp CLIs, and durable automation
-- Open-source projects with clear docs and simple installation paths
 
 ## Activity
 
