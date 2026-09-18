@@ -16,32 +16,14 @@ Founder of [Boring Dystopia](https://boringdystopia.ai/) · shipping agent tooli
 
 I like tools that feel close to the machine: terminal-first, local-first, observable, hackable, and useful immediately. My current focus is building better ways to work with coding agents: orchestration, review loops, skills, desktop companions, and tiny interfaces that make agent work less chaotic.
 
-## AI Agents & Developer Tools
-
-- 🧠 **[oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim)** - OpenCode plugin that orchestrates specialized agents, background work, and mixed-model teams for coding tasks. `⭐ 8.9k+`
-- 🖥️ **[TmuxAI](https://github.com/alvinunreal/tmuxai)** - Terminal-native AI pair programmer for tmux that reads pane context and runs approved commands in dedicated panes. `⭐ 1.9k+`
-- 🐾 **[OpenPets](https://github.com/OpenPetsHQ/openpets)** - Cross-platform animated desktop companions with a sandboxed TypeScript plugin SDK and optional local coding-agent status integrations. `⭐ 1.2k+`
-- 🧩 **[LazySkills](https://github.com/alvinunreal/lazyskills)** - Terminal UI for discovering, auditing, and managing skills across Claude Code, OpenCode, Cursor, and other coding agents. `⭐ 246+`
-- 🥩 **Meat Proxy** - Interactive field guide and referral site for the AI-era workplace term "meat proxy," with self-scans, shareable badges, and companion [agent skills](https://github.com/meatproxyme/skills).
-
-## Curated Resources & Ecosystems
-
-- 🌐 **[Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai)** - Curated catalog of 1,000+ open-source AI models, frameworks, agents, inference engines, and infrastructure tools across 14 categories. `⭐ 4.7k+`
-- 🦾 **[Awesome OpenClaw](https://github.com/alvinreal/awesome-openclaw)** - Index of the OpenClaw ecosystem, covering official tools, skills, registries, dashboards, memory systems, channel plugins, and operations guides. `⭐ 735+`
-- 💡 **[Awesome OpenClaw Tips](https://github.com/alvinreal/awesome-openclaw-tips)** - Practical OpenClaw operating playbook with copyable configuration, architecture patterns, and agent prompts for memory, reliability, cost, and automation. [Community](https://www.reddit.com/r/OpenClaw_Tips/) `⭐ 229+`
-- 📋 **[Awesome Submitlist](https://github.com/alvinunreal/awesome-submitlist)** - Weekly-synced directory of 330+ startup submission destinations, with traffic, Domain Rating, pricing, and backlink data. `⭐ 154+`
-- 🗂️ **[Awesome TUI](https://github.com/alvinunreal/awesometui)** - Curated catalog of 1,340+ open-source terminal UIs across 19 categories, synced weekly. `⭐ 15+`
-
 ## Websites
 
-- <img src="https://www.google.com/s2/favicons?domain=boringdystopia.ai&sz=32" width="16" height="16" alt=""> **[Boring Dystopia](https://boringdystopia.ai/)** - Studio and portfolio home for my projects.
 - <img src="https://www.google.com/s2/favicons?domain=ohmyopencodeslim.com&sz=32" width="16" height="16" alt=""> **[oh-my-opencode-slim](https://ohmyopencodeslim.com/)** - Product site and documentation.
 - <img src="https://www.google.com/s2/favicons?domain=tmuxai.dev&sz=32" width="16" height="16" alt=""> **[TmuxAI](https://tmuxai.dev/)** - Product site and documentation.
 - <img src="https://www.google.com/s2/favicons?domain=openpets.dev&sz=32" width="16" height="16" alt=""> **[OpenPets](https://openpets.dev/)** - Product site and plugin ecosystem.
 - <img src="https://www.google.com/s2/favicons?domain=lazyskills.sh&sz=32" width="16" height="16" alt=""> **[LazySkills](https://lazyskills.sh/)** - Product site, including a [trending skills directory](https://lazyskills.sh/trending).
 - <img src="https://www.google.com/s2/favicons?domain=meatproxy.me&sz=32" width="16" height="16" alt=""> **[Meat Proxy](https://meatproxy.me/)** - Field guide, self-scan, and referral board.
 - <img src="https://www.google.com/s2/favicons?domain=awesomeosai.com&sz=32" width="16" height="16" alt=""> **[Awesome Open Source AI](https://awesomeosai.com/)** - Searchable companion directory for the list.
-- <img src="https://www.google.com/s2/favicons?domain=moltfounders.com&sz=32" width="16" height="16" alt=""> **[Awesome OpenClaw](https://moltfounders.com/awesome-openclaw)** - Companion guide for the OpenClaw collection.
 - <img src="https://www.google.com/s2/favicons?domain=submitlist.io&sz=32" width="16" height="16" alt=""> **[Submitlist](https://submitlist.io/)** - Startup launch directory and submission tracker.
 - <img src="https://www.google.com/s2/favicons?domain=awesometui.com&sz=32" width="16" height="16" alt=""> **[Awesome TUI](https://awesometui.com/)** - Searchable directory of terminal user interfaces.
 - <img src="https://www.google.com/s2/favicons?domain=freesubstats.com&sz=32" width="16" height="16" alt=""> **[Free Sub Stats](https://freesubstats.com/)** - Reddit analytics and discovery app.
@@ -51,6 +33,14 @@ I like tools that feel close to the machine: terminal-first, local-first, observ
 ## Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alvinunreal)
+
+## Curated Resources & Ecosystems
+
+- 🌐 **[Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai)** - Curated catalog of 1,000+ open-source AI models, frameworks, agents, inference engines, and infrastructure tools across 14 categories. `⭐ 4.7k+`
+- 🦾 **[Awesome OpenClaw](https://github.com/alvinreal/awesome-openclaw)** - Index of the OpenClaw ecosystem, covering official tools, skills, registries, dashboards, memory systems, channel plugins, and operations guides. `⭐ 735+`
+- 💡 **[Awesome OpenClaw Tips](https://github.com/alvinreal/awesome-openclaw-tips)** - Practical OpenClaw operating playbook with copyable configuration, architecture patterns, and agent prompts for memory, reliability, cost, and automation. [Community](https://www.reddit.com/r/OpenClaw_Tips/) `⭐ 229+`
+- 📋 **[Awesome Submitlist](https://github.com/alvinunreal/awesome-submitlist)** - Weekly-synced directory of 330+ startup submission destinations, with traffic, Domain Rating, pricing, and backlink data. `⭐ 154+`
+- 🗂️ **[Awesome TUI](https://github.com/alvinunreal/awesometui)** - Curated catalog of 1,340+ open-source terminal UIs across 19 categories, synced weekly. `⭐ 15+`
 
 ---
 
