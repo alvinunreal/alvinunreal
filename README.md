@@ -3,6 +3,7 @@
 I build open-source tools for AI agents, developer workflows, and playful desktop software.
 
 Founder of [Boring Dystopia](https://boringdystopia.ai/) · shipping agent tooling, TUI apps, desktop companions, and practical AI infrastructure.
+I like tools that feel close to the machine: terminal-first, local-first, observable and hackable.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -13,8 +14,6 @@ Founder of [Boring Dystopia](https://boringdystopia.ai/) · shipping agent tooli
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![TUI](https://img.shields.io/badge/-TUI-111827?style=flat-square&logo=gnometerminal&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white)
-
-I like tools that feel close to the machine: terminal-first, local-first, observable and hackable.
 
 ## Websites
 
