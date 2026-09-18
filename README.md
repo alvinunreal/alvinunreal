@@ -14,7 +14,7 @@ Founder of [Boring Dystopia](https://boringdystopia.ai/) · shipping agent tooli
 ![TUI](https://img.shields.io/badge/-TUI-111827?style=flat-square&logo=gnometerminal&logoColor=white)
 ![AI Agents](https://img.shields.io/badge/-AI_Agents-8B5CF6?style=flat-square&logo=openai&logoColor=white)
 
-I like tools that feel close to the machine: terminal-first, local-first, observable, hackable, and useful immediately. My current focus is building better ways to work with coding agents: orchestration, review loops, skills, desktop companions, and tiny interfaces that make agent work less chaotic.
+I like tools that feel close to the machine: terminal-first, local-first, observable and hackable.
 
 ## Websites
 
