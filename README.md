@@ -17,17 +17,17 @@ I like tools that feel close to the machine: terminal-first, local-first, observ
 
 ## Websites
 
-- <img src="https://www.google.com/s2/favicons?domain=ohmyopencodeslim.com&sz=32" width="16" height="16" alt=""> **[oh-my-opencode-slim](https://ohmyopencodeslim.com/)** - Product site and documentation.
-- <img src="https://www.google.com/s2/favicons?domain=tmuxai.dev&sz=32" width="16" height="16" alt=""> **[TmuxAI](https://tmuxai.dev/)** - Product site and documentation.
-- <img src="https://www.google.com/s2/favicons?domain=openpets.dev&sz=32" width="16" height="16" alt=""> **[OpenPets](https://openpets.dev/)** - Product site and plugin ecosystem.
-- <img src="https://www.google.com/s2/favicons?domain=lazyskills.sh&sz=32" width="16" height="16" alt=""> **[LazySkills](https://lazyskills.sh/)** - Product site, including a [trending skills directory](https://lazyskills.sh/trending).
-- <img src="https://www.google.com/s2/favicons?domain=meatproxy.me&sz=32" width="16" height="16" alt=""> **[Meat Proxy](https://meatproxy.me/)** - Field guide, self-scan, and referral board.
-- <img src="https://www.google.com/s2/favicons?domain=awesomeosai.com&sz=32" width="16" height="16" alt=""> **[Awesome Open Source AI](https://awesomeosai.com/)** - Searchable companion directory for the list.
-- <img src="https://www.google.com/s2/favicons?domain=submitlist.io&sz=32" width="16" height="16" alt=""> **[Submitlist](https://submitlist.io/)** - Startup launch directory and submission tracker.
-- <img src="https://www.google.com/s2/favicons?domain=awesometui.com&sz=32" width="16" height="16" alt=""> **[Awesome TUI](https://awesometui.com/)** - Searchable directory of terminal user interfaces.
-- <img src="https://www.google.com/s2/favicons?domain=freesubstats.com&sz=32" width="16" height="16" alt=""> **[Free Sub Stats](https://freesubstats.com/)** - Reddit analytics and discovery app.
-- <img src="https://www.google.com/s2/favicons?domain=browserpedia.com&sz=32" width="16" height="16" alt=""> **[BrowserPedia](https://browserpedia.com/)** - Browser comparison and discovery app.
-- <img src="https://www.google.com/s2/favicons?domain=stickyarchive.com&sz=32" width="16" height="16" alt=""> **[Sticky Archive](https://stickyarchive.com/)** - Public anonymous sticky-note archive.
+- <img src="https://www.google.com/s2/favicons?domain=ohmyopencodeslim.com&sz=32" width="16" height="16" alt=""> **[oh-my-opencode-slim](https://ohmyopencodeslim.com/)** - OpenCode plugin that coordinates specialist coding agents, background work, and mixed-model workflows.
+- <img src="https://www.google.com/s2/favicons?domain=tmuxai.dev&sz=32" width="16" height="16" alt=""> **[TmuxAI](https://tmuxai.dev/)** - Terminal-native AI pair programmer for tmux that reads pane context and runs approved commands in separate panes.
+- <img src="https://www.google.com/s2/favicons?domain=openpets.dev&sz=32" width="16" height="16" alt=""> **[OpenPets](https://openpets.dev/)** - Animated desktop-companion platform with plugins and local coding-agent status integrations.
+- <img src="https://www.google.com/s2/favicons?domain=lazyskills.sh&sz=32" width="16" height="16" alt=""> **[LazySkills](https://lazyskills.sh/)** - Terminal UI for discovering, auditing, and managing skills across coding agents, with a [trending skills directory](https://lazyskills.sh/trending).
+- <img src="https://www.google.com/s2/favicons?domain=meatproxy.me&sz=32" width="16" height="16" alt=""> **[Meat Proxy](https://meatproxy.me/)** - Field guide and self-scan for people who pass prompts and unchecked AI output between humans.
+- <img src="https://www.google.com/s2/favicons?domain=awesomeosai.com&sz=32" width="16" height="16" alt=""> **[Awesome Open Source AI](https://awesomeosai.com/)** - Searchable directory of 1,000+ open-source AI models, frameworks, agents, and infrastructure tools.
+- <img src="https://www.google.com/s2/favicons?domain=submitlist.io&sz=32" width="16" height="16" alt=""> **[Submitlist](https://submitlist.io/)** - Directory and launch tracker for 330+ startup submission destinations, with traffic, pricing, and backlink data.
+- <img src="https://www.google.com/s2/favicons?domain=awesometui.com&sz=32" width="16" height="16" alt=""> **[Awesome TUI](https://awesometui.com/)** - Directory of 1,340+ open-source terminal user interfaces across 19 categories.
+- <img src="https://www.google.com/s2/favicons?domain=freesubstats.com&sz=32" width="16" height="16" alt=""> **[Free Sub Stats](https://freesubstats.com/)** - Reddit analytics for subscriber growth, historical trends, emerging communities, and related-subreddit discovery.
+- <img src="https://www.google.com/s2/favicons?domain=browserpedia.com&sz=32" width="16" height="16" alt=""> **[BrowserPedia](https://browserpedia.com/)** - Browser comparison tool built on verified data for privacy defaults, extensions, capabilities, and workflows.
+- <img src="https://www.google.com/s2/favicons?domain=stickyarchive.com&sz=32" width="16" height="16" alt=""> **[Sticky Archive](https://stickyarchive.com/)** - Public archive where anyone can post anonymous notes that are moderated, translated, and organized by date and topic.
 
 ## Activity
 
