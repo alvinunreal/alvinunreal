@@ -34,30 +34,23 @@ I like tools that feel close to the machine: terminal-first, local-first, observ
 
 ## Websites
 
-- **[Boring Dystopia](https://boringdystopia.ai/)** - Studio and portfolio home for my projects.
-- **[oh-my-opencode-slim](https://ohmyopencodeslim.com/)** - Product site and documentation.
-- **[TmuxAI](https://tmuxai.dev/)** - Product site and documentation.
-- **[OpenPets](https://openpets.dev/)** - Product site and plugin ecosystem.
-- **[LazySkills](https://lazyskills.sh/)** - Product site, including a [trending skills directory](https://lazyskills.sh/trending).
-- **[Meat Proxy](https://meatproxy.me/)** - Field guide, self-scan, and referral board.
-- **[Awesome Open Source AI](https://awesomeosai.com/)** - Searchable companion directory for the list.
-- **[Awesome OpenClaw](https://moltfounders.com/awesome-openclaw)** - Companion guide for the OpenClaw collection.
-- **[Submitlist](https://submitlist.io/)** - Startup launch directory and submission tracker.
-- **[Awesome TUI](https://awesometui.com/)** - Searchable directory of terminal user interfaces.
-- **[Free Sub Stats](https://freesubstats.com/)** - Reddit analytics and discovery app.
-- **[BrowserPedia](https://browserpedia.com/)** - Browser comparison and discovery app.
-- **[Sticky Archive](https://stickyarchive.com/)** - Public anonymous sticky-note archive.
+- <img src="https://www.google.com/s2/favicons?domain=boringdystopia.ai&sz=32" width="16" height="16" alt=""> **[Boring Dystopia](https://boringdystopia.ai/)** - Studio and portfolio home for my projects.
+- <img src="https://www.google.com/s2/favicons?domain=ohmyopencodeslim.com&sz=32" width="16" height="16" alt=""> **[oh-my-opencode-slim](https://ohmyopencodeslim.com/)** - Product site and documentation.
+- <img src="https://www.google.com/s2/favicons?domain=tmuxai.dev&sz=32" width="16" height="16" alt=""> **[TmuxAI](https://tmuxai.dev/)** - Product site and documentation.
+- <img src="https://www.google.com/s2/favicons?domain=openpets.dev&sz=32" width="16" height="16" alt=""> **[OpenPets](https://openpets.dev/)** - Product site and plugin ecosystem.
+- <img src="https://www.google.com/s2/favicons?domain=lazyskills.sh&sz=32" width="16" height="16" alt=""> **[LazySkills](https://lazyskills.sh/)** - Product site, including a [trending skills directory](https://lazyskills.sh/trending).
+- <img src="https://www.google.com/s2/favicons?domain=meatproxy.me&sz=32" width="16" height="16" alt=""> **[Meat Proxy](https://meatproxy.me/)** - Field guide, self-scan, and referral board.
+- <img src="https://www.google.com/s2/favicons?domain=awesomeosai.com&sz=32" width="16" height="16" alt=""> **[Awesome Open Source AI](https://awesomeosai.com/)** - Searchable companion directory for the list.
+- <img src="https://www.google.com/s2/favicons?domain=moltfounders.com&sz=32" width="16" height="16" alt=""> **[Awesome OpenClaw](https://moltfounders.com/awesome-openclaw)** - Companion guide for the OpenClaw collection.
+- <img src="https://www.google.com/s2/favicons?domain=submitlist.io&sz=32" width="16" height="16" alt=""> **[Submitlist](https://submitlist.io/)** - Startup launch directory and submission tracker.
+- <img src="https://www.google.com/s2/favicons?domain=awesometui.com&sz=32" width="16" height="16" alt=""> **[Awesome TUI](https://awesometui.com/)** - Searchable directory of terminal user interfaces.
+- <img src="https://www.google.com/s2/favicons?domain=freesubstats.com&sz=32" width="16" height="16" alt=""> **[Free Sub Stats](https://freesubstats.com/)** - Reddit analytics and discovery app.
+- <img src="https://www.google.com/s2/favicons?domain=browserpedia.com&sz=32" width="16" height="16" alt=""> **[BrowserPedia](https://browserpedia.com/)** - Browser comparison and discovery app.
+- <img src="https://www.google.com/s2/favicons?domain=stickyarchive.com&sz=32" width="16" height="16" alt=""> **[Sticky Archive](https://stickyarchive.com/)** - Public anonymous sticky-note archive.
 
 ## Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/alvinunreal)
-
-## Connect
-
-[![Website](https://img.shields.io/badge/-boringdystopia.ai-111827?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://boringdystopia.ai/)
-[![OpenPets](https://img.shields.io/badge/-openpets.dev-8B5CF6?style=flat-square&logo=githubsponsors&logoColor=white)](https://openpets.dev/)
-[![TmuxAI](https://img.shields.io/badge/-tmuxai.dev-000000?style=flat-square&logo=gnometerminal&logoColor=white)](https://tmuxai.dev/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alvinunreal)
 
 ---
 
